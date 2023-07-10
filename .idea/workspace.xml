@@ -1,40 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1391f45-c7b3-4406-986d-f6945da73e17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/Dea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/Career.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/Contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/Travel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/fonts/Fasthand-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/homePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/DC.hacketh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/DSC_0185.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/NChandstand.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/NYempire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/NYradio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/bikDoruk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/career.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/dajnsourgrrrrr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/golem brzovec.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/greenBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/kola.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/location.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/marble.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/newyorkGround0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/peperutka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/valfrejus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/images/washington capitoll hill.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/messageSent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyWebPage/style.css" afterDir="false" />
+    <list default="true" id="e1391f45-c7b3-4406-986d-f6945da73e17" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +32,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ISPIT 2022/uncoveredzad" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,17 +59,50 @@
       <updated>1687859414601</updated>
       <workItem from="1687859416426" duration="5377000" />
       <workItem from="1687947372605" duration="13401000" />
-      <workItem from="1688472955986" duration="18645000" />
+      <workItem from="1688472955986" duration="24653000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1688987304326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688987304326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1666" y="165" key="CommitChangelistDialog2" timestamp="1688987560601">
+      <screen x="-2400" y="0" width="2400" height="1350" />
+    </state>
+    <state x="-1666" y="165" key="CommitChangelistDialog2/-2400.0.2400.1350/0.0.1920.1080@-2400.0.2400.1350" timestamp="1688987560601" />
+    <state x="-2309" y="91" width="2218" height="1168" key="DiffContextDialog" timestamp="1688988681443">
+      <screen x="-2400" y="0" width="2400" height="1350" />
+    </state>
+    <state x="-2309" y="91" width="2218" height="1168" key="DiffContextDialog/-2400.0.2400.1350/0.0.1920.1080@-2400.0.2400.1350" timestamp="1688988681443" />
     <state x="686" y="236" key="FileChooserDialogImpl" timestamp="1688197951862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="686" y="236" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1688197951862" />
+    <state x="-1353" y="551" key="Github.ShareDialog" timestamp="1688992688433">
+      <screen x="-2400" y="0" width="2400" height="1350" />
+    </state>
+    <state x="-1353" y="551" key="Github.ShareDialog/-2400.0.2400.1350/0.0.1920.1080@-2400.0.2400.1350" timestamp="1688992688433" />
+    <state x="-1814" y="214" key="SettingsEditor" timestamp="1688991379290">
+      <screen x="-2400" y="0" width="2400" height="1350" />
+    </state>
+    <state x="-1814" y="214" key="SettingsEditor/-2400.0.2400.1350/0.0.1920.1080@-2400.0.2400.1350" timestamp="1688991379290" />
+    <state x="-1621" y="295" width="840" height="1034" key="search.everywhere.popup" timestamp="1688992316520">
+      <screen x="-2400" y="0" width="2400" height="1350" />
+    </state>
+    <state x="-1621" y="295" width="840" height="1034" key="search.everywhere.popup/-2400.0.2400.1350/0.0.1920.1080@-2400.0.2400.1350" timestamp="1688992316520" />
   </component>
 </project>
