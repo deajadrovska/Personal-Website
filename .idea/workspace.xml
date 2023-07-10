@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1391f45-c7b3-4406-986d-f6945da73e17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/Dea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/Career.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/Travel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/fonts/Fasthand-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/homePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/DC.hacketh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/DSC_0185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/NChandstand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/NYempire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/NYradio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/bikDoruk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/career.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/dajnsourgrrrrr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/golem brzovec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/greenBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/kola.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/location.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/marble.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/newyorkGround0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/peperutka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/valfrejus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/images/washington capitoll hill.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/messageSent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWebPage/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RmduhL9ltGAStIjmWKx8CjaCjQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ISPIT 2022/uncoveredzad" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Deu\AA faks\semestar 2\Web\Dea\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1391f45-c7b3-4406-986d-f6945da73e17" name="Default Changelist" comment="" />
+      <created>1687859414601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687859414601</updated>
+      <workItem from="1687859416426" duration="5377000" />
+      <workItem from="1687947372605" duration="13401000" />
+      <workItem from="1688472955986" duration="18645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="236" key="FileChooserDialogImpl" timestamp="1688197951862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="686" y="236" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1688197951862" />
+  </component>
+</project>
